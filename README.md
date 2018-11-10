@@ -1,7 +1,7 @@
 ![sketch47-masthead](https://user-images.githubusercontent.com/16766231/48295084-ec8aba80-e488-11e8-8526-f43b46ff866b.png)
 
 # Sketch App 52+ Midnight Theme OS Mojave Icons Update
-#### I really like Night Mood for Sketch App https://midnightsketch.com/ but the new main action icons are dim and they need more focus so I made them little brighter
+#### I really like Night Mood for Sketch App https://midnightsketch.com/ but the new main action icons are dim so I made them little brighter
 ## Original In Purple
 
 ![original 2x](https://user-images.githubusercontent.com/16766231/48294876-8f423980-e487-11e8-99a1-59c896a84d10.png)
