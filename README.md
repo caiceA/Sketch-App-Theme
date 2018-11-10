@@ -23,4 +23,4 @@ https://foxshift.com/sketch-midnight-theme/icons.zip
 ```
 
 ### Restart Sketch App 
-_If your toolbar is hiddent Go to View Menu > Show Tool Bar_
+_If your toolbar is hidden Go to View Menu > Show Tool Bar_
